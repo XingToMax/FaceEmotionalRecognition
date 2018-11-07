@@ -88,4 +88,4 @@ python run.py -test
 
 见`result.xlsx`
 
-![1541598436173](https://github.com/XingToMax/FaceEmotionalRecognition\test_result.png)
+![](https://github.com/XingToMax/FaceEmotionalRecognition/blob/master/images/test_result.png)
