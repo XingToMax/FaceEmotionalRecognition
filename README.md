@@ -83,3 +83,9 @@ python run.py -test
 网盘地址 : https://pan.baidu.com/s/1FVna89oPvi4PiY-voMwEEA 提取码: knf4
 
 下载完成后直接在本项目根目录解压
+
+## 测试结果
+
+见`result.xlsx`
+
+![1541598436173](https://github.com/XingToMax/FaceEmotionalRecognition\test_result.png)
